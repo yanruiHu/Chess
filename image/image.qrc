@@ -1,0 +1,49 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>BA.GIF</file>
+        <file>BAS.GIF</file>
+        <file>BB.GIF</file>
+        <file>BBS.GIF</file>
+        <file>BC.GIF</file>
+        <file>BCS.GIF</file>
+        <file>BK.GIF</file>
+        <file>BKM.GIF</file>
+        <file>BKS.GIF</file>
+        <file>BN.GIF</file>
+        <file>BNS.GIF</file>
+        <file>BP.GIF</file>
+        <file>BPS.GIF</file>
+        <file>BR.GIF</file>
+        <file>BRS.GIF</file>
+        <file>image.qrc</file>
+        <file>image.qrc.autosave</file>
+        <file>OO.GIF</file>
+        <file>OOS.GIF</file>
+        <file>RA.GIF</file>
+        <file>RAS.GIF</file>
+        <file>RB.GIF</file>
+        <file>RBS.GIF</file>
+        <file>RC.GIF</file>
+        <file>RCS.GIF</file>
+        <file>RK.GIF</file>
+        <file>RKM.GIF</file>
+        <file>RKS.GIF</file>
+        <file>RN.GIF</file>
+        <file>RNS.GIF</file>
+        <file>RP.GIF</file>
+        <file>RPS.GIF</file>
+        <file>RR.GIF</file>
+        <file>RRS.GIF</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>AttackKing.wav</file>
+        <file>Choose.wav</file>
+        <file>Draw.wav</file>
+        <file>Eat.wav</file>
+        <file>Forbid.wav</file>
+        <file>Loss.wav</file>
+        <file>Move.wav</file>
+        <file>NewGame.wav</file>
+        <file>Win.wav</file>
+    </qresource>
+</RCC>
